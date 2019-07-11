@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook hacker cup
+title: Facebook hacker cup 2019 - Qualification Round
 ---
 
 This article shows you how I solved the first three problems of the qualification round of Facebook Hacker Cup 2019.
