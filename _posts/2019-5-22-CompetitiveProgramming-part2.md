@@ -10,15 +10,15 @@ Dans Cet article nous allons apprendre à comprendre le problème posé et trouv
 Regardons la composition de l'énoncé d'un problème.
 
 Pour commencer nous avons l'introduction avec une mise en contexte d'un problème de la vie de tous les jours, fiction...
-Pour la majorité des cas, la compréhension du contexte n'est pas particulièrement importante à la résolution du problème.
+Dans la majorité des cas, la compréhension du contexte n'est pas particulièrement importante.
 
-Deuxièmement, nous avons la partie avec la définition de la solution. Cela vous donne le squelette de la solution que vous aurez à écrire.
+Deuxièmement, nous avons la partie avec la définition de la solution. Cela nous donne le squelette de la solution que nous aurons à écrire.
 
 Vous pourrez également avoir des notes sur des notions utiles à avoir (des formules mathématiques,...).
 
 Ensuite nous avons la partie avec les contraintes. Cette section est une des plus importantes puisque-elle vous permet de savoir à quel point votre algorithmes devra être performant pour passer les tests.
 
-Finalement, nous avons un jeu de tests d'exemple qui va nous permettre de tester notre programme. Vous aurez dans l'ordre, les inputs, les valeurs de retour attendues, puis, optionnellement, une explication des données de tests.
+Pour finir, nous avons un jeu de tests d'exemple qui va nous permettre de tester notre programme. Vous aurez dans l'ordre, les inputs, les valeurs de retour attendues, puis, optionnellement, une explication des données de tests.
 
 ## Comment trouver une solution ?
 
@@ -32,7 +32,7 @@ Les problèmes qui ne demandent pas de techniques particulière:
 il s'agit des problèmes demandant seulement au programme d'exécuter une série d'opérations pas à pas.
 
 **Breadth First Search**
-Généralement ces problèmes demandent de trouver le chemin le plus court, avec le minimum d'étapes,... avec des matrices, graphs,...
+Généralement ces problèmes demandent de trouver le chemin le plus court, avec le minimum d'étapes... avec des matrices, graphs...
 La complexité de ces problèmes est généralement linéaire.
 
 **Backtracking / Brute Force**
@@ -45,7 +45,7 @@ Le backtracking est quant à lui plus optimisé que le brute-force.
 
 **Dynamic Programming**
 Une bonne partie des problèmes peuvent être résolus grâce à cette technique.
-Savoir quand l'utiliser peut être vraiment avantageux ! Le principe de base est de découper un problème complexe en un sous-ensemble de problèmes plus petits à résoudre, qui une fois résolus ammenent à la solution finale.
+Savoir quand l'utiliser peut être vraiment avantageux ! Le principe de base est de découper un problème complexe en un sous-ensemble de problèmes plus petits à résoudre, qui une fois résolus amènent à la solution finale.
 
 <p align="center">
 <img alt="dynamic-programming" src="https://cdn-images-1.medium.com/max/1600/1*MXpfyivX8XmtULGNiXXmEw.png" width="300"/>
