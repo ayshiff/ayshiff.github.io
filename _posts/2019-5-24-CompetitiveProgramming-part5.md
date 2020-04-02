@@ -8,14 +8,15 @@ Exemple d'un problème populaire d'optimisation combinatoire (voir plus).
 ## Activity selection problem
 
 Prenons un exemple d'un problème populaire d'optimisation combinatoire.
+
 Vous avez une liste d'activités à réaliser dans la journée (toutes définies par une heure de départ et de fin en heures), vous savez que vous ne pourrez pas toutes les faire.
-vous voudriez trouver le nombre maximale d'activité que vous pourriez réaliser dans la journée sans que les activités ne se superposent.
+Vous voudriez trouver le nombre maximale d'activités que vous pourriez réaliser dans la journée sans que les activités ne se superposent.
 
 Prenez un moment pour réfléchir au problème et revenez lorsque vous aurez trouvé une solution.
 
 **Solution**
 
-Nous pouvons résoudre ce problème avec ce que l'on appelle un "algorithme gourmand".
+Nous pouvons résoudre ce problème avec ce que l'on appelle un "algorithme gourmand" ou "greedy algorithm" en anglais.
 
 **Algorithme**
 
