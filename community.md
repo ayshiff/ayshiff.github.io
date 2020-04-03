@@ -81,12 +81,8 @@ A great [Red-Hat event](https://www.redhat.com/fr/events/automate-everything-ans
 
 ## Competitive programming
 
-- [Facebook Hacker Cup](https://www.facebook.com/pg/hackercup/about/) - 2019
-- [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam) - 2019 - 2020
-- [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart) - 2019 - 2020
-- [Google Hash Code](https://codingcompetitions.withgoogle.com/hashcode) - 2020
-- [Advent of code](https://adventofcode.com/) 2019
-- [Battle Dev](https://battledev.blogdumoderateur.com/) 2017 - 2018 - 2019
+### Onsite
+
 - [Codin’Night Battle Royale](https://codin-night.lesjeudis.com/) - 2019
     <p align="center">
     <img alt="mdf" src="/images/hackathons/codinnight.jpg"   width="500"/>
@@ -95,3 +91,21 @@ A great [Red-Hat event](https://www.redhat.com/fr/events/automate-everything-ans
     <p align="center">
     <img alt="mdf" src="/images/hackathons/mdf2.jpeg"   width="500"/>
     </p>
+
+### Online
+
+- [Facebook Hacker Cup](https://www.facebook.com/pg/hackercup/about/) - 2019
+- [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam) - 2019 - 2020
+    <p align="center">
+    <img alt="codejam" src="/images/competitive_programming/codejam.png"   width="400"/>
+    </p>
+- [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart) - 2019 - 2020
+    <p align="center">
+    <img alt="kickstart" src="/images/competitive_programming/kickstart.png"   width="400"/>
+    </p>
+- [Google Hash Code](https://codingcompetitions.withgoogle.com/hashcode) - 2020
+    <p align="center">
+    <img alt="hashcode" src="/images/competitive_programming/hashcode.png"   width="400"/>
+    </p>
+- [Advent of code](https://adventofcode.com/) 2019
+- [Battle Dev](https://battledev.blogdumoderateur.com/) 2017 - 2018 - 2019
