@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Code Jam 2020 - Qualification round
+title: Google Code Jam 2020 - Round 1A
 ---
 
 This article contains my solutions for the Google Code Jam 2020 round 1A.
