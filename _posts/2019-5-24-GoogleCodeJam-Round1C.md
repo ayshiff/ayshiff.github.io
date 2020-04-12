@@ -121,7 +121,6 @@ int main() {
                 break;
             }
         }
-
         cout << "Case #" << t << ": " << finale << "\n";
     }
 

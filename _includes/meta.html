@@ -6,7 +6,7 @@
   content="width=device-width, initial-scale=1.0, maximum-scale=1.0"
 />
 
-{% if page.excerpt %}
+{% seo %} {% if page.excerpt %}
 <meta name="description" content="{{ page.excerpt| strip_html }}" />
 <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
 {% else %}
@@ -19,6 +19,7 @@
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="twitter:title" content="{{ page.title }}" />
 {% endif %}
+
 <meta
   name="google-site-verification"
   content="3ktJFWZhZnL_DWuE6f1m8ens8UA7EKvutt5uZYh7vdo"
