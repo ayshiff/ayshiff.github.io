@@ -40,9 +40,7 @@ This addition only make usage of tuples like these far clearer.
 
 ## `/** @deprecated */` Support
 
-This is a feature for the TypeScript's editing support. It will now be able to recognize when a declaration has been marked with a JSDoc comment => `/** @deprecated */` and it UI.
-
-Your editor
+This is a feature for the TypeScript's editing support. It will now be able to recognize when a declaration has been marked with a JSDoc comment => `/** @deprecated */`.
 
 ![vs-code](https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2020/06/deprecated_4-0.png)
 
