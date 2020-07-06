@@ -117,7 +117,7 @@ type T2 = Foo<[number, number]>;  // [string, number, number, number]
 type T3 = Foo<[]>;  // [string, number]
 ```
 
-You ca read the the [PR here](https://github.com/microsoft/TypeScript/pull/39094).
+You can read the the [PR here](https://github.com/microsoft/TypeScript/pull/39094).
 
 ## Class property inference from constructors
 
