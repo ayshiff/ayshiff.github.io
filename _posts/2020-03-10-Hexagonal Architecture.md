@@ -32,7 +32,10 @@ This simple CLI app will print some poems in the terminal.
 
 To show you how the app will be strutured we will have:
 
-![Schema](https://blog.octo.com/wp-content/uploads/2018/07/archi_hexa_01.png)
+<p align="center">
+<img alt="cooperathon" src="../images/posts/hexagonal.png" width="800"/>
+</p>
+
 
 Interaction application / domain -> As we said before we want that our domain logic can be driven by our user or by automated tests. The user just want to ask for poems (business logic).
 
