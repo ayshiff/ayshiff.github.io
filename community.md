@@ -6,6 +6,10 @@ permalink: /community/
 
 This page gathers some of the **meetups** - **conferences** - **hackathons** I took part in.
 
+<p align="center">
+<img alt="mozilla" src="/images/badges.jpg" width="500"/>
+</p>
+
 ## Hackathons
 
 ### Hackathon React-Europe 2018 - Mozilla
