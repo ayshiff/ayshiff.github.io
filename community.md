@@ -15,7 +15,7 @@ This page gathers some of the **meetups** - **conferences** - **hackathons** I t
 ### Hackathon React-Europe 2018 - Mozilla
 
 <p align="center">
-<img alt="mozilla" src="/images/hackathons/mozilla.jpeg" width="500"/>
+<img alt="mozilla" src="/images/hackathons/mozilla.png" width="500"/>
 </p>
 
 During this hackathon we had to resolve issues related to the
@@ -24,12 +24,21 @@ During this hackathon we had to resolve issues related to the
 ### Coopérathon 2018
 
 <p align="center">
-<img alt="cooperathon" src="/images/hackathons/cooperathon.jpeg" width="500"/>
+<img alt="cooperathon" src="/images/hackathons/cooperathon.png" width="500"/>
 </p>
 
 As part of the 2018 [Cooperathon](https://cooperathon.com/) under the "Education" thematic,
 I was tasked with my Canadian team to develop a musical creation
 app: **audiencemusic.com**
+
+
+## Volunteering
+
+<p align="center">
+<img alt="react-europe-volunteering" src="/images/meetups/volunteer_react-europe.png" width="500"/>
+</p>
+
+Volunteer at the react-europe.org conference from May 14 to 18, 2018
 
 
 ## Conferences
@@ -89,19 +98,22 @@ A great [Red-Hat event](https://www.redhat.com/fr/events/automate-everything-ans
 
 - [Codin’Night Battle Royale](https://codin-night.lesjeudis.com/) - 2019
     <p align="center">
-    <img alt="mdf" src="/images/hackathons/codinnight.jpg"   width="500"/>
+    <img alt="condin_night" src="/images/hackathons/codinnight.png"   width="500"/>
     </p>
 - [Le meilleur développeur de France](https://mdf19.com/) 2019
     <p align="center">
-    <img alt="mdf" src="/images/hackathons/mdf2.jpeg"   width="500"/>
+    <img alt="mdf" src="/images/hackathons/mdf2.png"   width="500"/>
     </p>
 
 ### Online
 
-- [Facebook Hacker Cup](https://www.facebook.com/pg/hackercup/about/) - 2019
+- [Facebook Hacker Cup](https://www.facebook.com/pg/hackercup/about/) - 2019 - 2020
 - [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam) - 2019 - 2020
     <p align="center">
     <img alt="codejam" src="/images/competitive_programming/codejam.png"   width="400"/>
+    </p>
+    <p align="center">
+    <img alt="codejam" src="/images/competitive_programming/codejam2020.png"   width="400"/>
     </p>
 - [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart) - 2019 - 2020
     <p align="center">
@@ -112,4 +124,10 @@ A great [Red-Hat event](https://www.redhat.com/fr/events/automate-everything-ans
     <img alt="hashcode" src="/images/competitive_programming/hashcode.png"   width="400"/>
     </p>
 - [Advent of code](https://adventofcode.com/) 2019
+    <p align="center">
+    <img alt="adventofcode" src="/images/competitive_programming/advent_of_code.png"   width="400"/>
+    </p>
 - [Battle Dev](https://battledev.blogdumoderateur.com/) 2017 - 2018 - 2019
+    <p align="center">
+    <img alt="battledev" src="/images/hackathons/battledev.png"   width="400"/>
+    </p>

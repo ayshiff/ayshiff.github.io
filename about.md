@@ -15,7 +15,7 @@ On my blog you can find various articles about programming and other IT stuff in
 - **DevOps** (CI / CD - Docker - Kubernetes - Ansible - Terraform)
 - **MeetUps** - **Conferences** - **Speaker** (Paris Open Source Summit…)
 - **Hackathons** - React-Europe Hackathon - Cooperathon
-- **Software engineering** (Automation - ML - Big Data...)
+- **Computer Science** (Automation - ML - Big Data...)
 
 
 You can find most of my work on [GitHub](https://github.com/ayshiff) and [GitLab](https://gitlab.com/ayshiff).   
