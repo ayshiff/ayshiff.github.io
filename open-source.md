@@ -6,7 +6,7 @@ permalink: /open-source/
 
 I love spending my free time contributing to open source projects.
 
-Here are some projects on which I try to contribute (more or less frequently depending on the projects).   
+Here are some projects on which I try to contribute (more or less frequently depending on the project).   
 This list is not exhaustive and will surely not be up to date. Go to my [Github](https://github.com/ayshiff) if you want more details.
 
 ## [Backstage](https://github.com/spotify/backstage)
@@ -27,7 +27,7 @@ This list is not exhaustive and will surely not be up to date. Go to my [Github]
 
 *Docusaurus is a project for building, deploying, and maintaining open source project websites easily.*
 
-## Rome
+## [Rome](https://github.com/romefrontend/rome)
 
 <p align="center">
 <img alt="cooperathon" src="/images/rome.png" width="500"/>
