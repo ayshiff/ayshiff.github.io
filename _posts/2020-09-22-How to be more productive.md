@@ -5,6 +5,7 @@ title: How can you become more productive at work ?
   
 Productivity is one of the **most in-demand skill of today**.   
 You only have 24 hours per day so making **the most of your time** is important.   
+
 But how can you become **more productive** ?
 
 <br/>
@@ -19,13 +20,16 @@ Have you ever wondered how to become more productive at work ?
 
 Through this article I will try to share **my advices and tools to be more productive**.
 Even if you have an expectional amount of work to do, you can remain **productive** and **relaxed**.
-The purpose of this article is to become aware of your way of working, to question it and to try to **improve it**.    
+The purpose of this article is to become aware of your way of working, to question it and to try to **improve it**.   
+
 The end goal is **to work smarter, not harder**.
 
 # Focus on what really matters
 
-The purpose of this article is to become aware of your way of working, to question it and to try to **improve it**.    
-The end goal is **to work smarter, not harder**.
+In today's world, you are **drowning** in a lot of informations (emails, meetings...).   
+You must filter the important ones from the distractions to focus on **what really matters**.   
+
+This way you prioritize your time on the **most impactful tasks**. 
 
 <div class="image_container">
 <img alt="focus" src="/images/posts/focus.jpg" class="image_cover"/>
@@ -36,6 +40,7 @@ The end goal is **to work smarter, not harder**.
 ## Design a plan to identify long-term priorities
 
 **Plan everything** you need to do during the day / week.   
+
 I like taking the analogy of the **jar theory**: start by filling your jar with the **rocks**, the big, important tasks, then you can add the **pebbles** which are the tasks with average importance and finally you can add the **sand** which represent the less important tasks.
 
 <p align="center">
@@ -49,9 +54,9 @@ Each week, make sure you schedule 30 minutes and 10 minutes each day to design y
 
 <br/>
 
-## The time matrix
+## The Eisenhower matrix
 
-This productivity tool lets you **focus your time and attention** on activities in accordance with their **importance**. This is called a *Time Matrix*.
+This productivity tool lets you **focus your time and attention** on activities in accordance with their **importance**. This is called the *Eisenhower Matrix* (or time matrix).
 
 The idea is pretty simple:
 
@@ -61,23 +66,30 @@ The idea is pretty simple:
 <img alt="time-matrix" src="/images/posts/time-matrix.png" width="500"/>
 </p>
 
-- The <span style="font-size: bold;color:red">top-left one (Q1)</span> quadrant includes **important, urgent work.**
-- The <span style="font-size: bold;color:orange">top-right one (Q2)</span> quadrant includes **important tasks that are not urgent.**
-- The <span style="font-size: bold;color:green">bottom-left one (Q3)</span> quadrant time is for the work that is **urgent but not important.**
-- And <span style="font-size: bold;color:blue">finally the bottom-right (Q4)</span> one is the time you **waste on pointless things.**
+- The <span style="font-size: bold;color:red">top-left</span> quadrant includes important, urgent work that have to be **done the same day** (or tomorrow at the latest).
+- The <span style="font-size: bold;color:orange">top-right</span> quadrant includes **important tasks that are not urgent** but sould be **scheduled**.
+- The <span style="font-size: bold;color:green">bottom-left</span> quadrant is for the work that is **urgent but not important** and should be **delegated** to others.
+- And <span style="font-size: bold;color:blue">finally the bottom-right</span> one is the time you **waste on pointless things.**
 
-Ideally you should spend most of your time in Q1 and Q2 as this is where we can focus and think instead of reacting of the urgency of the tasks. This is also a way to **focus on one task at a time.** (We will come back later on this notion)    
-In order to put a task in this quadrant you should use the *Pause-Clarify-Decide method* by pausing for a moment and thinking: *Will this task need immediate action ?* If the answer is no, you can focus on something else.
+Ideally you should spend most of your time in the <span style="font-size: bold;color:red">top-left</span> quadrant as this is where there is the important work that needs to be done quickly. This is also a way to **focus on one task at a time.**    
+
+In order to put a task in this quadrant you should put all your tasks on a **list** and go through them one by one using the *Pause-Clarify-Decide method*.   
+Pause for a moment and think:   
+   - *Will this task need immediate action ?*
+   - *Is this task important ?* 
+
+It should give you the answer to know in **which quadrant** to put this task.
+This way all your tasks will be sorted according to their **importance** and **urgency**.
 
 <br/>
 
-## The 80/20 rule
+## The 80-20 rule
 
 <div class="image_container">
 <img class="image_cover" alt="80-20" src="/images/posts/80-20.png"/>
 </div>
 
-Lets take an example, Microsoft discovered that by fixing the top **20%** of the most-reported issues, **80%** of the related errors would be eliminated.
+Lets take an example, Microsoft discovered that by fixing the top **20%** of the most-reported issues, **80%** of the related errors would be eliminated.   
 It was also discovered that in general **80% of the results** will come from **20% of the efforts**.     
 In other words, **80%** of the software you are writing can be written in **20%** of the total allocated time.
 
@@ -88,7 +100,7 @@ In conclusion, find **the most important 20%** of your work and **focus on it**.
 ## Break you work into smaller pieces
 Did you ever think that you were going to put off your work until tomorrow ?   
 This is called **procrastination**.   
-One reason why you are procrastinating is that your to-do list seems **too big**.
+One reason why you are procrastinating is that your to-do list contains **too big** tasks.
 
 <div class="image_container">
 <img alt="pieces" src="/images/posts/pieces.jpg" class="image_cover"/>
@@ -108,7 +120,7 @@ Have you ever felt **without any motivation** to work?
 </div>
 
 This feeling is quite normal ! Usually **motivation comes after productivity**.   
-It's the same problem writers have with the clean sheet.   
+It's the same problem writers have with the *"blank page syndrome"*.   
 Start by **doing something**, anything, cut your work into small pieces and **start** with a small task, just to get into the **"work" mode**.
 
 <br/>
@@ -125,7 +137,9 @@ The reason is pretty simple, most of the time your are **not** doing multiple th
 
 # Organize your time
 
-The reason is pretty simple, most of the time your are **not** doing multiple things at once, you are just quickly switching your focus between things. It means that each time you switch your focus, you need to **re-focus** on the previous task.
+Dealing with time could be a hard task but if you apply the **correct time management techniques** and tips it can help you get **more organized** and consequently increase your productivity.   
+
+Working on managing your time is the key to **take control** of your work.
 
 <div class="image_container">
 <img class="image_cover" alt="time" src="/images/posts/time.jpg"/>
@@ -133,9 +147,11 @@ The reason is pretty simple, most of the time your are **not** doing multiple th
 
 ## The Pomodoro technique
 
-This technique is used by **over 2 million people** to manage their time.
+This technique is used by **over 2 million people** to manage their time. 
 
-The idea is pretty simple:
+The objective is to **alternate** focused **work sessions** with **frequent short breaks** which allows a regular **concentration** and prevent the brain from **getting tired**.
+
+The idea is again pretty simple:
 
 - **Choose a task** you’d like to do
 - Set a timer for **25 minutes**
@@ -170,20 +186,27 @@ The technique seen above will helps you take **deliberate** breaks.
 <img class="image_cover" alt="break" src="/images/posts/break.jpg"/>
 </div>
 
-By "deliberate" I mean that people often take breaks to justify that they are **distracted**. It means that their breaks were **not scheduled** and it's possible that they are taking too much of them (or too long). 
+By "deliberate" I mean that people often take breaks to justify that they are **distracted**. It means that their breaks were **not scheduled** and it's possible that they are taking too much of them (or too long).   
+
+To get the full benefit of a break, you must **disconnect** from what you were doing. For example, to disconnect from your work, you can **stand up from your desk** and go for a **walk**.   
+
+This is a good way to **detach** your mind and your body from "work mode".
 
 <br/>
 
 ## Handle your energy
 
 Organizing your time is also a way to organize effectively your **energy**.   
-Have you ever been stuck with a problem at the end of the day ? And usually you can figure it out the **next morning**...
+
+Have you ever been stuck with a problem at the end of the day ? And usually you can figure it out the **next morning**...   
+In fact you should be better doing **certain tasks** at **certain times in the day**.   
+You can then determine which task **suits the best** for each time of day.
 
 <div class="image_container">
 <img class="image_cover" alt="energy1" src="/images/posts/energy1.jpg"/>
 </div>
 
-Productive people know how to manage their energy to handle **the most difficult** tasks while they have **enough energy** to handle them.
+Productive people know how to manage their energy to handle **the most difficult** tasks while they have **enough energy** to handle them.   
 Remember that you have **less attention** than time during the day.
 
 # Build your technology radar
@@ -202,17 +225,17 @@ This radar contains four levels of concern:
 <p style="text-align: center;font-style: italic;">https://www.thoughtworks.com/radar/languages-and-frameworks</p>
 </p>
 
-For example, as a frontend developer, you could have strongly **adopted** React, whereas ReasonML is worth **trialing** on projects.
+For example, as a frontend developer, you could have **adopted** React, whereas ReasonML is worth **trialing** on projects.
 Machine Learning doesn’t impact you yet so you can **assess** it.
 Finally you could have decided to **hold off** looking at Cloud Computing.
 
 Each level of concern implies a **more or less** important **investment** on your part.
 For the Assess level you could just read a weekly « overview » of the subject.
-The trial level implies you to read more articles, try on projects… **Get your hands dirty** ! (You could have a sandbox workspace where you put all your experiment projects.)
-For the Adopt level you should be more than familiar with the technology, this is your your **main expertise**!
+The trial level implies you to read more articles, try on projects… **Get your hands dirty** ! (You could have a sandbox workspace where you put all your experiment projects)    
+For the Adopt level you should be more than familiar with the technology, this is your your **main expertise** !
 
-In conclusion, the technology radar allows you to **organize your work** in a **hierarchical** manner in order to put those with the **most impact** first.
-This way you can focus on what really matters.
+In conclusion, the technology radar allows you to **organize your work** in a **hierarchical** manner in order to put those with the **most impact** first.   
+This way you can focus on what really **matters**.
 
 # Take care of you
 
@@ -230,14 +253,15 @@ So remember to take care of yourself by **doing exercice**, getting enough **sle
 
 # Conclusion
 
-I understand that these tips don't work for everyone but they **worked for me** so why don't you too ?
+I understand that these tips don't work for everyone but they **worked for me** so why don't you too ?   
+In addition, I only wrote about **certain techniques and tips** but there are **many others** that you can learn.
 
 To sum up, here is how to be **more productive**:
 
 - **Focus** on what really matters
 - **Organize** your time
-- **Take care** of you
 - **Build** your technology radar
+- **Take care** of you
 
 # Uselful Tools
 
@@ -274,6 +298,7 @@ Why not **automate** these piece of work ?
 
 List **all the tasks** you have to accomplish, and put them into a **task management system**. 
 They will **free your mind**.   
+
 **Orient** your future actions by putting down your decisions about a task that come your way.
 
 **TaskWarrior**: <a href="https://taskwarrior.org/">https://taskwarrior.org/</a>    
