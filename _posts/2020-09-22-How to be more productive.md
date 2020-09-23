@@ -5,22 +5,33 @@ title: How can you become more productive at work ?
   
 Productivity is one of the **most in-demand skill of today**.   
 You only have 24 hours per day so making **the most of your time** is important.   
-But How can you become **more productive** ?
+But how can you become **more productive** ?
 
-<p align="center">
-<img alt="wallpaper" src="/images/posts/wallpaper.jpg" width="500"/>
-</p>
+<br/>
+
+<div class="image_container">
+<img alt="wallpaper" src="/images/posts/wallpaper.jpg" class="image_wallpaper"/>
+</div>
 
 # To begin...
 
 Have you ever wondered how to become more productive at work ?  
 
 Through this article I will try to share **my advices and tools to be more productive**.
-Even if you have a phenomenal amount of work to do, you can remain **relaxed** and **productive**.
+Even if you have an expectional amount of work to do, you can remain **productive** and **relaxed**.
 The purpose of this article is to become aware of your way of working, to question it and to try to **improve it**.    
 The end goal is **to work smarter, not harder**.
 
 # Focus on what really matters
+
+The purpose of this article is to become aware of your way of working, to question it and to try to **improve it**.    
+The end goal is **to work smarter, not harder**.
+
+<div class="image_container">
+<img alt="focus" src="/images/posts/focus.jpg" class="image_cover"/>
+</div>
+
+<br/>
 
 ## Design a plan to identify long-term priorities
 
@@ -35,6 +46,8 @@ I like taking the analogy of the **jar theory**: start by filling your jar with 
 This way you can **focus on your main goals** for your day / week and then it **create space** for the pebble tasks and finally the sand tasks. This technique also makes it easier to **respect your plans** and **get things done**.
 
 Each week, make sure you schedule 30 minutes and 10 minutes each day to design your plan.
+
+<br/>
 
 ## The time matrix
 
@@ -53,10 +66,16 @@ The idea is pretty simple:
 - The <span style="font-size: bold;color:green">bottom-left one (Q3)</span> quadrant time is for the work that is **urgent but not important.**
 - And <span style="font-size: bold;color:blue">finally the bottom-right (Q4)</span> one is the time you **waste on pointless things.**
 
-Ideally you should spend most of your time in Q1 and Q2 as this where we can focus and think instead of reacting of the urgency of the tasks. This is also a way to **focus on one task at a time.** (We will come back later on this notion)    
+Ideally you should spend most of your time in Q1 and Q2 as this is where we can focus and think instead of reacting of the urgency of the tasks. This is also a way to **focus on one task at a time.** (We will come back later on this notion)    
 In order to put a task in this quadrant you should use the *Pause-Clarify-Decide method* by pausing for a moment and thinking: *Will this task need immediate action ?* If the answer is no, you can focus on something else.
 
-## The 80/20 rule D
+<br/>
+
+## The 80/20 rule
+
+<div class="image_container">
+<img class="image_cover" alt="80-20" src="/images/posts/80-20.png"/>
+</div>
 
 Lets take an example, Microsoft discovered that by fixing the top **20%** of the most-reported issues, **80%** of the related errors would be eliminated.
 It was also discovered that in general **80% of the results** will come from **20% of the efforts**.     
@@ -64,35 +83,55 @@ In other words, **80%** of the software you are writing can be written in **20%*
 
 In conclusion, find **the most important 20%** of your work and **focus on it**.
 
-## Break you work into smaller pieces
+<br/>
 
+## Break you work into smaller pieces
 Did you ever think that you were going to put off your work until tomorrow ?   
 This is called **procrastination**.   
 One reason why you are procrastinating is that your to-do list seems **too big**.
 
+<div class="image_container">
+<img alt="pieces" src="/images/posts/pieces.jpg" class="image_cover"/>
+</div>
+
+
 By **breaking large tasks into smaller ones** you set more **short-term goals** that gives you the feeling of **moving forward** and it also gives you more **motivation**.
+
+<br/>
 
 ## Get to work
 
 Have you ever felt **without any motivation** to work?
 
+<div class="image_container">
+<img class="image_cover" alt="work" src="/images/posts/work.jpg"/>
+</div>
+
 This feeling is quite normal ! Usually **motivation comes after productivity**.   
 It's the same problem writers have with the clean sheet.   
 Start by **doing something**, anything, cut your work into small pieces and **start** with a small task, just to get into the **"work" mode**.
 
+<br/>
+
 ## Do one thing at a time
 
-People are **bad at multitasking**. ([What shows research](https://www.apa.org/research/action/multitask))   
+People are **bad at multitasking**. ([What research shows](https://www.apa.org/research/action/multitask))   
+
+<div class="image_container">
+<img class="image_cover" alt="piece" src="/images/posts/piece.jpg"/>
+</div>
+
 The reason is pretty simple, most of the time your are **not** doing multiple things at once, you are just quickly switching your focus between things. It means that each time you switch your focus, you need to **re-focus** on the previous task.
 
 # Organize your time
 
-## The Pomodoro technique
+The reason is pretty simple, most of the time your are **not** doing multiple things at once, you are just quickly switching your focus between things. It means that each time you switch your focus, you need to **re-focus** on the previous task.
 
-<p align="center">
-<img alt="pomodoro" src="/images/posts/pomodoro.png" width="500"/>
-<p style="text-align: center;font-style: italic;">https://blog.hotmart.com/en/pomodoro-technique/</p>
-</p>
+<div class="image_container">
+<img class="image_cover" alt="time" src="/images/posts/time.jpg"/>
+</div>
+
+## The Pomodoro technique
 
 This technique is used by **over 2 million people** to manage their time.
 
@@ -103,6 +142,11 @@ The idea is pretty simple:
 - **Work** on the task until the timer ends
 - Take a **short break** (~5 minutes)
 - Every **4 timer**, you can take a **longer break** (~25 minutes)
+
+<div class="image_container">
+<img class="image_cover" src="/images/posts/pomodoro.png"/>
+<p style="text-align: center;font-style: italic;">https://blog.hotmart.com/en/pomodoro-technique/</p>
+</div>
 
 You can also go further by making the Pomodoro technique more effective:
 
@@ -116,15 +160,28 @@ In **conclusion**, the Pomodoro technique helps you:
 - **Reduce the complexity** of your long-term goals
 - Make your job more **motivating** by setting short-term goals
 
+<br/>
+
 ## Take deliberate breaks
 
 The technique seen above will helps you take **deliberate** breaks.   
+
+<div class="image_container">
+<img class="image_cover" alt="break" src="/images/posts/break.jpg"/>
+</div>
+
 By "deliberate" I mean that people often take breaks to justify that they are **distracted**. It means that their breaks were **not scheduled** and it's possible that they are taking too much of them (or too long). 
+
+<br/>
 
 ## Handle your energy
 
 Organizing your time is also a way to organize effectively your **energy**.   
 Have you ever been stuck with a problem at the end of the day ? And usually you can figure it out the **next morning**...
+
+<div class="image_container">
+<img class="image_cover" alt="energy1" src="/images/posts/energy1.jpg"/>
+</div>
 
 Productive people know how to manage their energy to handle **the most difficult** tasks while they have **enough energy** to handle them.
 Remember that you have **less attention** than time during the day.
@@ -151,8 +208,8 @@ Finally you could have decided to **hold off** looking at Cloud Computing.
 
 Each level of concern implies a **more or less** important **investment** on your part.
 For the Assess level you could just read a weekly « overview » of the subject.
-The trial level implies you to read more articles, try on projects… **Get your hands dirty** !
-For the Adopt level you should be more than familiar with the technology, this is your your **main expertise **!
+The trial level implies you to read more articles, try on projects… **Get your hands dirty** ! (You could have a sandbox workspace where you put all your experiment projects.)
+For the Adopt level you should be more than familiar with the technology, this is your your **main expertise**!
 
 In conclusion, the technology radar allows you to **organize your work** in a **hierarchical** manner in order to put those with the **most impact** first.
 This way you can focus on what really matters.
@@ -161,10 +218,15 @@ This way you can focus on what really matters.
 
 This advice may seem logical but you should take care of your **body** and **mind**.   
 All the tips I gave you above are useless if you don’t take care of your body.
+
+<div class="image_container">
+<img class="image_cover" alt="take_care" src="/images/posts/take_care.jpg"/>
+</div>
+
 For example, your brain consumes **20 percent of your energy** but it only takes up **2 percent of your body**.
 If you don’t have enough energy to feed your brain it's a bit like having a **car without gasoline**…
 
-So remember to take care of you by **doing exercice**, getting enough **sleep** and staying **healthy** !
+So remember to take care of yourself by **doing exercice**, getting enough **sleep** and staying **healthy** !
 
 # Conclusion
 
@@ -177,7 +239,11 @@ To sum up, here is how to be **more productive**:
 - **Take care** of you
 - **Build** your technology radar
 
-# Uselfull Tools
+# Uselful Tools
+
+<div class="image_container">
+<img class="image_cover" alt="tools" src="/images/posts/tools.jpg"/>
+</div>
 
 ## Task automation
 
@@ -207,7 +273,7 @@ Why not **automate** these piece of work ?
 ## Task Management
 
 List **all the tasks** you have to accomplish, and put them into a **task management system**. 
-They will **free your mind**.
+They will **free your mind**.   
 **Orient** your future actions by putting down your decisions about a task that come your way.
 
 **TaskWarrior**: <a href="https://taskwarrior.org/">https://taskwarrior.org/</a>    

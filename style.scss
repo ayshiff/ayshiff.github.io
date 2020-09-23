@@ -22,6 +22,22 @@ code {
   font-size: 0.8em;
 }
 
+.image_cover {
+  height: 250px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.image_wallpaper {
+  height: 400px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.image_container {
+  width: 100%;
+}
+
 body {
 	background: $white;
   font: 18px/1.4 $Serif;
