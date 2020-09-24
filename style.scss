@@ -17,9 +17,30 @@ html {
   font-size: 100%;
 }
 
+code {
+  font-family: $Monospace;
+  font-size: 0.8em;
+}
+
+.image_cover {
+  height: 250px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.image_wallpaper {
+  height: 400px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.image_container {
+  width: 100%;
+}
+
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $Serif;
   color: $darkGray;
 }
 
@@ -31,7 +52,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $SansSerif;
   color: $darkerGray;
   font-weight: bold;
 
@@ -194,7 +215,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $SansSerif;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -213,7 +234,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $SansSerif;
   font-size: 18px;
 
   @include mobile {
