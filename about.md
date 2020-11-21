@@ -27,3 +27,15 @@ You can find my resume [here](/images/Resume.pdf).
 ##### Feel free to send me an email if you need some help or you don't understand someting 🚀
 
 [remi.d45@gmail.com](mailto:remi.d45@gmail.com)
+
+
+## Readings
+
+Here is a list of books that taught me a lot and that I recommend you to read:
+
+- **[The Coding Career Handbook](https://www.learninpublic.org/)**
+- **[Software engineering at Google](https://www.amazon.fr/Software-Engineering-Google-Lessons-Programming/dp/1492082791)**
+- **[The One Thing](https://www.the1thing.com/)**
+- **[Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.fr/Deep-Work-Focused-Success-Distracted/dp/0349411905)**
+- **[Are You Smart Enough to Work at Google ?](https://www.amazon.fr/Are-Smart-Enough-Work-Google/dp/0316099988)**
+- **[Clean Architecture](https://www.amazon.fr/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)**
